@@ -20,7 +20,7 @@
   .logo {
     height: 11.625rem;
     width: 13.15rem;
-    background: url("../assets/images/1-2.png") no-repeat;
+    background: url("../assets/images/2-1.png") no-repeat;
     background-size: 100% 100%;
     position: absolute;
     top: 4.1rem;
@@ -30,7 +30,7 @@
   a {
     height: 2.1rem;
     width: 4.35rem;
-    background: url("../assets/images/1-4.png") no-repeat;
+    background: url("../assets/images/2-2.png") no-repeat;
     background-size: 100% 100%;
     display: block;
     position: absolute;
@@ -42,7 +42,6 @@
 
 <script>
 export default {
-  name: "Home",
-  components: {},
+  name: "answerItem",
 };
 </script>
